@@ -1,1 +1,1 @@
-Тестовый проект по гиту.
+somethig about project
